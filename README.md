@@ -9,7 +9,7 @@ The JavaScript piano player uses WebAudio API and Arduino Uno.
    ```
 
 2. Connect your Arduino Uno board to USB port (or wherever suits you) using sketch below:
-(comming soon)
+![Barduino sketch](http://i.imgur.com/ZAaAUCX.jpg)
 3. Run:
 
   ```
